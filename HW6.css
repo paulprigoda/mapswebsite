@@ -1,0 +1,78 @@
+body {
+    background-color: white; 
+}
+
+h1 {
+    display: inline-block;
+}
+
+#title {
+    background-color: wheat;
+    font: bold, verana, sans-serif; color: brown;
+    border-radius: 8px;
+    border-color: red;
+    border-style: solid;
+    width: 1200px;
+    text-align: left;
+    margin: auto;
+    position: absolute;
+
+}
+
+#back{
+    background-color: gray;
+    width: 1200px;
+    height: 70px;
+    border-radius: 6px 6px 6px 6px;
+    border-color: black;
+    margin-top: 10px;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+#mapdiv{
+    background-color: beige;
+    width: 1233px;
+    align-content: center;
+    margin: auto;
+    border-radius: 6px 6px 6px 6px;
+    border-color: black;
+    border-style: solid 5px;
+}
+
+#createDB {
+    background-color: darkcyan;
+    width: 80px;
+    height: 25px;
+    font: verdana, sans-serif; color: yellow;
+    border-radius: 6px 6px 6px 6px;
+    border-color: white;
+    margin-top: 2px;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+#dropDB {
+    background-color: darkcyan;
+    width: 80px;
+    height: 25px;
+    font: verdana, sans-serif; color: yellow;
+    border-radius: 6px 6px 6px 6px;
+    border-color: white;
+    margin-top: 2px;
+}
+
+
+#nearby {
+    background-color: darkcyan;
+    width: 140px;
+    height: 25px;
+    font: verdana, sans-serif; color: yellow;
+    border-radius: 6px 6px 6px 6px;
+    border-color: white;
+    align-content: center;
+    display: inline;
+    margin-right: 30px;
+}
+
